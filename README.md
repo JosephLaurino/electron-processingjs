@@ -1,4 +1,4 @@
-## Processing.js for native application thanks to electron
+## Processing.js for native application thanks to electron (http://electron.atom.io/)
 
 Processing sketch is inlined in index.html
 
