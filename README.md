@@ -1,12 +1,9 @@
-## Processing.js for native application thanks to electron (http://electron.atom.io/)
+## [Processing.js](http://processingjs.org/) for native applications thanks to [electron](http://electron.atom.io/)
 
-Processing sketch is inlined in index.html
+Processing sketch is inlined in index.html.  This sample was inspired by [electron-threejs-example] (https://github.com/jeromeetienne/electron-threejs-example)
 
 
  ![processing.js with electron](https://github.com/JosephLaurino/electron-processingjs/blob/master/screenshot.png "processing.js with electron")
-
-
-This sample was inspired by https://github.com/jeromeetienne/electron-threejs-example
 
 ```javascript
 <body>
