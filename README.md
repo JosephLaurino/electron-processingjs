@@ -2,6 +2,10 @@
 
 Processing sketch is inlined in index.html
 
+
+ ![processing.js with electron](https://github.com/JosephLaurino/electron-processingjs/blob/master/screenshot.png "processing.js with electron")
+
+
 This sample was inspired by https://github.com/jeromeetienne/electron-threejs-example
 
 ```javascript
