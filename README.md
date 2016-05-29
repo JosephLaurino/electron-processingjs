@@ -2,6 +2,8 @@
 
 Processing sketch is inlined in index.html
 
+This sample was inspired by https://github.com/jeromeetienne/electron-threejs-example
+
 ```javascript
 <body>
 

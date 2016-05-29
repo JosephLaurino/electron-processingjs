@@ -1,37 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<title>processing.js sample in electron</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-		<style>
-			body {
-				color: #cccccc;
-				font-family:Monospace;
-				font-size:13px;
-				text-align:center;
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    We are using node <script>document.write(process.versions.node)</script>,
+    Chrome <script>document.write(process.versions.chrome)</script>,
+    and Electron <script>document.write(process.versions.electron)</script>.
 
-				background-color: rgba(0,0,0,0);
-				margin: 0px;
-				overflow: hidden;
-			}
-
-			#info {
-				position: absolute;
-				top: 0px; width: 100%;
-				padding: 5px;
-			}
-
-			a {
-
-				color: #0080ff;
-			}
-
-		</style>
-	</head>
-	<body>
-
-		
 		<div id="info"><a href="https://processing.org/examples/clock.html" target="_blank">processing.js</a> https://processing.org/examples/clock.html </div>
 		<script src="bower_components/Processing.js/processing.js"></script>
 		<script type="application/processing" data-processing-target="pjs">
