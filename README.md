@@ -7,7 +7,9 @@
 
 ###### Getting Started
 
-Install the latest node.js (w/c also installs the latest npm) from https://nodejs.org/en/
+Install the latest node.js (w/c also installs the latest npm) from https://nodejs.org
+
+To run the sample, clone this repository, install dependecies and then run.
 
 ```
 $ git clone https://github.com/JosephLaurino/electron-processingjs
@@ -15,7 +17,7 @@ $ cd electron-processingjs
 $ npm install && npm start
 ```
 
-Here's index.html.  
+Here's index.html which shows one way of embedding a processing sketch.
 
 ```javascript
 <!DOCTYPE html>
@@ -30,4 +32,4 @@ Here's index.html.
 	</body>
 </html>
 ```
-Processing.js sample is from http://beautifulprogramming.com/infinite-arboretum/
+The beautiful Processing.js sample is from http://beautifulprogramming.com/infinite-arboretum/
