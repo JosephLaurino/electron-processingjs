@@ -1,3 +1,4 @@
+// sample is from http://beautifulprogramming.com/infinite-arboretum/
 boolean autoplay = false;
 boolean showsFPS = false;
 boolean clearsBackground = true;

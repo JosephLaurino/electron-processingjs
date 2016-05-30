@@ -1,3 +1,5 @@
+// sample is from https://processing.org/examples/clock.html
+
 int cx, cy;
 float secondsRadius;
 float minutesRadius;
