@@ -26,7 +26,7 @@ Here's index.html.
   </head>
   <body>
     <script src="bower_components/Processing.js/processing.js"></script>
-		<canvas data-processing-sources="infinite-arboretum.pde"></canvas>
+    <canvas data-processing-sources="infinite-arboretum.pde"></canvas>
 	</body>
 </html>
 ```
